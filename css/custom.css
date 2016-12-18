@@ -1,0 +1,13 @@
+div {
+    color: white;
+    font-size: 50px;
+    height: 200px;
+}
+
+.container {
+    background-color: red;
+}
+
+.container-fluid {
+    background-color: blue;
+}
