@@ -7,10 +7,15 @@ p {
     margin-top: 10px;
 }
 
-.container {
+body>.container {
     background-color: red;
 }
 
 body>.container-fluid {
     background-color: blue;
+}
+
+body .carousel-inner img {
+    height: auto;
+    width: auto;
 }
