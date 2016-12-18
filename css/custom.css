@@ -1,13 +1,16 @@
 div {
     color: white;
-    font-size: 50px;
-    height: 200px;
+    font-size: 20px;
+}
+
+p {
+    margin-top: 10px;
 }
 
 .container {
     background-color: red;
 }
 
-.container-fluid {
+body>.container-fluid {
     background-color: blue;
 }
